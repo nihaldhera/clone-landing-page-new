@@ -1,0 +1,16 @@
+{
+  "name": "dyversa-landing-page-clone",
+  "version": "1.0.0",
+  "description": "Clone of Get Dyversa USA Hate Bras Hate Braless landing page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "dyversa",
+    "landing-page",
+    "clone"
+  ],
+  "author": "",
+  "license": "ISC"
+}
